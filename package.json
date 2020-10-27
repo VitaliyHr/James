@@ -1,0 +1,16 @@
+{
+  "name": "James",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mic": "^2.1.2",
+    "node-webcam": "^0.6.4"
+  }
+}
